@@ -1,13 +1,14 @@
-<h2 align="left">Hi, my name is Victor Lemos and I'm a Machine Learrning Engineer from Brazil</h2>
+<h2 align="left">Hi, my name is Victor Lemos and I'm a Machine Learning Engineer from Brazil</h2>
 
 ###
+<h3 align="left">About me</h3>
 
 <p align="left">Master in Computer Science at UFMA. Interested in Image Processing, Speech Recognition and NLP. Currently working as a ML Engineer at Consolide.</p>
 
 
-- 🔭 I’m currently working a automatic trademark registration project using ML and NLP
-- 🌱 I’m currently learning Kubernetes and Airflow
-- 👯 I’m looking to collaborate on in exciting ML projects
+- 🔭 I’m currently working on an automatic trademark registration project using ML and NLP
+- 🌱 I’m currently learning more about Kubernetes and MLOps
+- 👯 I’m looking to collaborate in exciting ML projects
 - 🤔 I’m looking for help all the time
 - 💬 Ask me about anything at anytime
 - ⚡ Fun fact: in my free time you can always find me playing some Dota 2 🐮
@@ -39,16 +40,17 @@
 <div align="left">
   <!-- ML libs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original.svg" height="40" width="52" alt="opencv logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg" height="40" width="52" alt="opencv logo"  />
 
   <!-- DS libs -->
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original.svg" height="40" width="52" alt="anaconda logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
 
   <!-- REST framework -->
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" height="40" width="52" alt="django logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" height="40" width="52" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dot-net logo"  />
@@ -62,9 +64,6 @@
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   
-  <!-- https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg
-  https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg -->
-  
 </div>
 
 <hr>
@@ -77,11 +76,38 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="52" alt="jupyter logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="52" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg" height="40" width="52" alt="postman logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="52" alt="postman logo"  />
+  <img src="https://www.svgrepo.com/show/341847/github.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
+</div>
+
+<hr>
+
+###
+
+<p align="left">Web Services</p>
+
+###
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" width="52" alt="Aws logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" height="40" width="52" alt="Azure logo"  />
+</div>
+
+<hr>
+
+###
+
+<p align="left">MLOps</p>
+
+###
+
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" height="40" width="52" alt="Docker logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
+
 </div>
 
 <hr>
