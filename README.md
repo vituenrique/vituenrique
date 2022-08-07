@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Programing Languages</p>
+<h5 align="left">Programing Languages</h5>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">Libraries/Frameworks</p>
+<h5 align="left">Libraries/Frameworks</h5>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<p align="left">Softwares</p>
+<h5 align="left">Softwares</h5>
 
 ###
 
@@ -87,7 +87,7 @@
 
 ###
 
-<p align="left">Web Services</p>
+<h5 align="left">Web Services</h5>
 
 ###
 
@@ -100,7 +100,7 @@
 
 ###
 
-<p align="left">MLOps</p>
+<h5 align="left">MLOps</h5>
 
 ###
 
@@ -112,7 +112,7 @@
 
 <hr>
 
-<p align="left">Social Media</p>
+<h5 align="left">Social Media</h5>
 
 ###
 
