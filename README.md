@@ -3,7 +3,7 @@
 ###
 <h3 align="left">About me</h3>
 
-<p align="left">Master in Computer Science at UFMA. Interested in Image Processing, Speech Recognition and NLP. Currently working as a ML Engineer at Consolide.</p>
+<p align="left">PhD Student in AI/NLP Computer Science at UFMA. Interested in NLP, Computer Vision and Time Series. Currently working as a Data Scientist at act digital/Globo.</p>
 
 
 - 🔭 I’m currently working on an automatic trademark registration project using ML and NLP
